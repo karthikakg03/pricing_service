@@ -3,7 +3,6 @@
 enum class ePricerMode
 {
 	ePricerMode_invalid,
-	DisplayHelp,
 	Pricing
 };
 
